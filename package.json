@@ -1,0 +1,17 @@
+{
+  "name": "callbacks",
+  "version": "1.0.0",
+  "description": "Mini Proyecto para manejar archivos ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript"
+  ],
+  "author": "Joskiener Simosa",
+  "license": "MIT",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  }
+}
